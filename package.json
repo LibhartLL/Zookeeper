@@ -1,0 +1,24 @@
+{
+  "name": "zookeeper",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LibhartLL/Zookeeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LibhartLL/Zookeeper/issues"
+  },
+  "homepage": "https://github.com/LibhartLL/Zookeeper#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "description": ""
+}
